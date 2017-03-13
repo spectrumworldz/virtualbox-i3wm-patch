@@ -68,8 +68,8 @@
   ``` bash
     out/linux.amd64/release/bin/VirtualBox-*.run
     
-    #uninstall
-    out/linux.amd64/release/bin/VirtualBox-*.run uninstall
+    # uninstall
+    # out/linux.amd64/release/bin/VirtualBox-*.run uninstall
   ```
   1. Compile and install the kernel modules
   
